@@ -2,6 +2,22 @@ Below are the tables: salesman, customer, orders
 
 ![930ba21f-2b91-4a42-83a7-a745a36bcf9d](https://github.com/grizzlypuma/SQL_project/assets/15256445/46aeaf7c-01aa-4410-ab7d-1241dac03217)
 
+![9258ad54-0c7e-497b-a272-81ddac09f3da](https://github.com/grizzlypuma/SQL_project/assets/15256445/752f385e-8347-4ba4-b58d-44d53e5ecc07)
+
+![c3d11209-6f6c-45e9-ab64-a53b24a4fb28](https://github.com/grizzlypuma/SQL_project/assets/15256445/5f4cc1ca-e45c-462a-939f-fe626bda730a)
+
+![b178fe99-8467-435a-a437-7583d912dda8](https://github.com/grizzlypuma/SQL_project/assets/15256445/34f07fc7-1ce6-41c8-a0a3-93064c286d59)
+
+
+1. Write a query to display all clients with a grade above 100.
+
+select *
+from Customer
+where grade > 100
+
+
+
+
 
 
 
