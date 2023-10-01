@@ -9,14 +9,14 @@
 		5007		Paul Adam		Rome		0.13
 	
 	CUSTOMER
-		customerid	custname		city		grade	salesman id
+		customerid	custname	city		grade	salesman id
 		3002		Nick Rimando	New York	100		5001
-		3007		Brad Davis		New York	200		5001
-		3005		Graham zusi		California	200		5002
+		3007		Brad Davis	New York	200		5001
+		3005		Graham zusi	California	200		5002
 		3008		Julian Green	London		300		5002
 		3004		Fabian Johnson	Paris		300		5006
 		3009		Geoff Cameron	Berlin		100		5003
-		3003		Joz Altidor		Moscow		200		5007
+		3003		Joz Altidor	Moscow		200		5007
 	
 	ORDERS
 
